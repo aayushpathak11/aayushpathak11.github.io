@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.foregroundTest",
+    "sha256_cert_fingerprints":
+    ["4F:C5:2A:63:AA:B3:13:4C:F4:38:FE:BC:76:DE:21:A6:28:AF:C1:AA:22:86:6E:6B:2F:6D:68:1E:3B:1F:08:6E"]
+  }
+}]
